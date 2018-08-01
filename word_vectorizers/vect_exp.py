@@ -3,9 +3,7 @@ file: vect_exp.py
 author : Petri Lamminaho
 Simple text vectorizers example. Uses TFIDF and count vectorrizer
 Code is part of my machine learning tutorial video  
-
 """
-
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction import stop_words
