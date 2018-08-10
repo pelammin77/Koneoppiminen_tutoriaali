@@ -4,7 +4,8 @@
 ### Youtubessa vuonna 2018 pitämäni koneoppimis tutoriaalin koodit ja muut matskut 
 ### tutoriaalin osoite tubessa https://www.youtube.com/playlist?list=PLH1J1mm44iNU5Zb6cXGJFZJ2_QvNBWCSK
 
-##Aiheet
+## Topics:
+
 ### Linear regression  
 ### Decission trees
 ### Random forest 
