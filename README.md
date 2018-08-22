@@ -7,9 +7,11 @@
 ## Topics:
 
 ### Linear regression  
+### Gradient decend 
 ### Decission trees
 ### Random forest 
 ### KNN
 ### Naive Byes 
 ### NLTK 
 ### TextBlob 
+### Logistic regression 
