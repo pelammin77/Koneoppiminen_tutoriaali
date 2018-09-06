@@ -15,3 +15,4 @@
 ### NLTK 
 ### TextBlob 
 ### Logistic regression 
+### SVM Support vector machine 
