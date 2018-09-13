@@ -16,3 +16,5 @@
 ### TextBlob 
 ### Logistic regression 
 ### SVM Support vector machine 
+### Voting classifier 
+
