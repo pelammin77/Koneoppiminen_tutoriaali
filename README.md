@@ -17,4 +17,7 @@
 ### Logistic regression 
 ### SVM Support vector machine 
 ### Voting classifier 
+### Deep learning 
+### Neural network with 1 hidden layer
+
 
